@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamdanyyy
 - 👀 I’m interested in ...tech
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...application development
+- 🌱 I’m currently learning ...full stack web dev
+- 💞️ I’m looking to collaborate on ...web dev projects
 - 📫 How to reach me ...manudany543@gmail.com
 
 <!---
